@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scan OOM Risks"
+  short_description: "Scan Java services for OOM risk patterns"
+  default_prompt: "Use $scan-oom-risks to scan this repository for Java OOM risks and prioritize findings."
