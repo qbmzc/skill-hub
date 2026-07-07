@@ -1,0 +1,5 @@
+interface:
+  display_name: "Review Loop"
+  short_description: "Requirements-driven review loop for safer AI code changes"
+  default_prompt: "Use $review-loop to review this change against the requirement and produce an acceptance matrix, negative checklist, and verification plan."
+
